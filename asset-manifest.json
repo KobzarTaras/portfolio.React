@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio.React/static/css/main.7fd54ebf.css",
+    "main.js": "/portfolio.React/static/js/main.c8719bb2.js",
+    "static/media/XDZT.gif": "/portfolio.React/static/media/XDZT.58df2fae68bae00658ab.gif",
+    "static/media/project_1.png": "/portfolio.React/static/media/project_1.e969f770e58cecae8796.png",
+    "static/media/project_2.png": "/portfolio.React/static/media/project_2.7624b77df92ecec796ce.png",
+    "static/media/svg3.svg": "/portfolio.React/static/media/svg3.95c39b3f16d82c3c25ea.svg",
+    "static/media/svg1.svg": "/portfolio.React/static/media/svg1.ccfee837cbd3408c77c2.svg",
+    "static/media/telegram.svg": "/portfolio.React/static/media/telegram.161d278ae8120a6b389fdd9040d9168c.svg",
+    "static/media/svg2.svg": "/portfolio.React/static/media/svg2.8a8c2509ffe6b44b6a59.svg",
+    "static/media/linkedin.svg": "/portfolio.React/static/media/linkedin.b9905c7e9049cca36241ffe58f80336b.svg",
+    "static/media/instagram.svg": "/portfolio.React/static/media/instagram.f7f1290e41a0a0f4fa1c0e03a487d8ac.svg",
+    "static/media/facebook.svg": "/portfolio.React/static/media/facebook.076cae50a6e66466b87830eace8f5055.svg",
+    "index.html": "/portfolio.React/index.html",
+    "main.7fd54ebf.css.map": "/portfolio.React/static/css/main.7fd54ebf.css.map",
+    "main.c8719bb2.js.map": "/portfolio.React/static/js/main.c8719bb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fd54ebf.css",
+    "static/js/main.c8719bb2.js"
+  ]
+}
